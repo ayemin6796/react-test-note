@@ -1,0 +1,9 @@
+.formContainer {
+  display: flex;
+  background-color: red;
+}
+
+.formContainer > input {
+  flex: 1;
+  padding: 5px 10px;
+}
